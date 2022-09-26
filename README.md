@@ -1,0 +1,1 @@
+# nalox_inventory_app
