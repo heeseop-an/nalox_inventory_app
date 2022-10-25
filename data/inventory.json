@@ -1,0 +1,57 @@
+{"inventory": [
+    {
+        "Item name": "Moisturizing Lotion",
+        "Item price": 11.17,
+        "Item ID": "a56a7c73-aeb5-4a7e-a06d-8dbeba151d4f",
+        "Item size": 20,
+        "Brand name": "Cetaphil",
+        "Item description": "Instant hydration lasting up to 24 Hrs",
+        "Item quantity": 100,
+        "Item cost": 5.36,
+        "Item type": "BODY"
+    },
+    {
+        "Item name": "Eye Repair Cream",
+        "Item price": 10.66,
+        "Item ID": "d1e3952f-9dc2-4983-b005-e24bc9919584",
+        "Item size": 0.5,
+        "Brand name": "Cerave",
+        "Item description": "Reduces the look of dark Circles & puffiness ",
+        "Item quantity": 200,
+        "Item cost": 3.56,
+        "Item type": "EYES"
+    },
+    {
+        "Item name": "Hydro Boost",
+        "Item price": 17.54,
+        "Item ID": "934f6bd9-f287-45b0-aa81-69000b6ac2db",
+        "Item size": 1.7,
+        "Brand name": "Neutrogena",
+        "Item description": "Instantly quenches skin",
+        "Item quantity": 150,
+        "Item cost": 6.3,
+        "Item type": "FACE"
+    },
+    {
+        "Item name": "Lip Repair",
+        "Item price": 2.99,
+        "Item ID": "558eaf25-a72f-41a0-9790-e84b4c4c8994",
+        "Item size": 0.35,
+        "Brand name": "Aquaphor",
+        "Item description": "Proven to relieve dryness and soothe chapped, cracked lips",
+        "Item quantity": 50,
+        "Item cost": 0.87,
+        "Item type": "LIP"
+    },
+    {
+        "Item name": "Stretch Mark Cream",
+        "Item price": 14.99,
+        "Item ID": "166039d9-77fc-4967-9a09-e230d33a8bc1",
+        "Item size": 2,
+        "Brand name": "M3 Naturals",
+        "Item description": "Collagen and stem cells infused",
+        "Item quantity": 150,
+        "Item cost": 4.32,
+        "Item type": "MATERNITY"
+    }
+]}

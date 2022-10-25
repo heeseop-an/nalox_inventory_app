@@ -1,0 +1,35 @@
+{"inventory": [
+    {
+        "Item name": "Facial Cream",
+        "Item price": 17.01,
+        "Item ID": "a1720790-560e-4d83-b637-147e94104650",
+        "Item size": 1.7,
+        "Brand name": "Neutrogena",
+        "Item description": "good facial cream",
+        "Item quantity": 10,
+        "Item cost": 8,
+        "Item type": "FACE"
+    },
+    {
+        "Item name": "Body Cream",
+        "Item price": 16.8,
+        "Item ID": "d2d199d3-f25c-4efc-85be-7eb56264b971",
+        "Item size": 18,
+        "Brand name": "CeraVe",
+        "Item description": "good body cream",
+        "Item quantity": 0,
+        "Item cost": 6,
+        "Item type": "BODY"
+    },
+    {
+        "Item name": "Sunscreen",
+        "Item price": 13.97,
+        "Item ID": "a0aefb01-1928-4d0d-88d2-0e4f1e706ee6",
+        "Item size": 1.7,
+        "Brand name": "CeraVe",
+        "Item description": "good sunscreen",
+        "Item quantity": 20,
+        "Item cost": 8,
+        "Item type": "SUNSCREEN"
+    }
+]}
